@@ -9,7 +9,7 @@
 <img src="/pic/core.png" width="40%" height="30%" title="opamp_1_off"></img></br>
  - tim1,2 설정
 </br>
-<img src="/pic/tim1.png" width="40%" height="15%" title="opamp_1_off" ></img></br>
+<img src="/pic/tim1.png" width="40%" height="5%" title="opamp_1_off" ></img></br>
  - clk 설정
 </br>
 <img src="/pic/clock_configuration.png" width="40%" height="30%" title="opamp_1_off"  ></img></br>
