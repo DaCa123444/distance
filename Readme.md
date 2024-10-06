@@ -9,10 +9,10 @@
 <img src="/pic/core.png" width="40%" height="30%" title="opamp_1_off"></img></br>
  - tim1,2 설정
 </br>
-<img src="/pic/tim1.png" width="40%" height="15%"  ></img></br>
+<img src="/pic/tim1.png" width="40%" height="15%" title="opamp_1_off" ></img></br>
  - clk 설정
 </br>
-<img src="/pic/clock_configuration.png" width="40%" height="30%"  ></img></br>
+<img src="/pic/clock_configuration.png" width="40%" height="30%" title="opamp_1_off"  ></img></br>
 
 ### 칩에서 stm32 간 처리 과정 정리
 1. Trigger : ranging을 위해 trigger가 발생해야하며, 10us 이후 종료
